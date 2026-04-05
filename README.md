@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/https://github.com/Omar2610sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Omar2610sa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Omar Salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Omar Salam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omar-salam-064126257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-salam-064126257" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
