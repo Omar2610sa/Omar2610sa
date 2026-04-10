@@ -1,6 +1,6 @@
 # Hi 👋, I'm Omar Moataz Salam
 
-- 🔭 I'm currently working on **Alamiya Elhura as Front-End Developer**
+- 🔭 I'm currently working at **Alamiya Elhura as Front-End Developer**
 
 - 🌱 I'm currently learning **Next.js and Typescript**
 
