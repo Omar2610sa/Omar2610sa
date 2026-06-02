@@ -9,21 +9,14 @@
 - 👨‍💻 All of my projects are available at:  
   [My Portfolio](https://omarsalam-portofolio.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://github.com/Omar2610sa" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Omar2610sa" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/omar-salam-064126257" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-salam-064126257" height="30" width="40" />
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
 </a>
@@ -63,4 +56,5 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
 </a>
+
 </p>
