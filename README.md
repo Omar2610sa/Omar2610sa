@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **omarmooataz26@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://omar2610sa.github.io/Cv-2/](https://omar2610sa.github.io/Cv-2/)**
+- 👨‍💻 All of my projects are available at **[https://omarsalam-portofolio.vercel.app/]([https://omar2610sa.github.io/Cv-2/](https://omarsalam-portofolio.vercel.app/))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
