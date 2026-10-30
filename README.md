@@ -57,7 +57,7 @@
 <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/node" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=node" alt="typescript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
