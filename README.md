@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+TypeScript;Exploring+Back-End+Development;Aspiring+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences" alt="Typing SVG"/>
 
   <br/>
 
@@ -72,7 +72,10 @@ I'm a **Front-End Developer** passionate about building modern, responsive, and 
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar2610sa/Omar2610sa/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Omar2610sa/Omar2610sa/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 
 </div>
 
