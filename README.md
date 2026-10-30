@@ -1,10 +1,14 @@
-# Hi 👋, I'm Omar Moataz Salam
+Hi 👋, I'm Omar Moataz Salam
 
-- 🔭 I'm currently working at **Alamiya Elhura as Front-End Developer**
+💻 I'm a Front-End Developer passionate about building modern and responsive web applications.
 
-- 🌱 I'm currently learning **Next.js and TypeScript**
+⚛️ I work with React.js, Next.js, TypeScript, Tailwind CSS, and Shadcn UI.
 
-- 📫 How to reach me: **omarmooataz26@gmail.com**
+🌱 Currently learning Back-End Development with Node.js, Express.js, MongoDB, and Nest.js.
+
+🚀 Working towards becoming a Full-Stack Developer and building complete web applications.
+
+📫 How to reach me: omarmooataz26@gmail.com
 
 - 👨‍💻 All of my projects are available at:  
   [My Portfolio](https://omarsalam-portofolio.vercel.app/)
