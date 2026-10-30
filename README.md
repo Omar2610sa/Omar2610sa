@@ -1,13 +1,36 @@
 Hi 👋, I'm Omar Moataz Salam
 
-💻 I'm a Front-End Developer passionate about building modern and responsive web applications.
+💻 Front-End Developer | Aspiring Full-Stack Developer
 
-⚛️ I work with React.js, Next.js, TypeScript, Tailwind CSS, and Shadcn UI.
+🚀 About Me
 
-🌱 Currently learning Back-End Development with Node.js, Express.js, MongoDB, and Nest.js.
+I'm a Front-End Developer passionate about building modern, responsive, and user-friendly web applications.
 
-🚀 Working towards becoming a Full-Stack Developer and building complete web applications.
+⚛️ Front-End Technologies
 
+React.js
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+Shadcn UI
+
+🌱 Currently Learning – Back-End Development
+
+Node.js
+
+Express.js
+
+MongoDB
+
+NestJS
+
+🎯 My Goal
+
+Working towards becoming a Full-Stack Developer by building complete, scalable, and efficient web applications.
 📫 How to reach me: omarmooataz26@gmail.com
 
 - 👨‍💻 All of my projects are available at:  
