@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences" alt="Typing SVG" />
 
   <br/>
 
@@ -57,8 +57,9 @@ I'm a **Front-End Developer** passionate about building modern, responsive, and 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar2610sa/Omar2610sa/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Omar2610sa/Omar2610sa/output/github-snake.svg" alt="GitHub Contribution Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar2610sa/Omar2610sa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar2610sa/Omar2610sa/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Omar2610sa/Omar2610sa/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
   </picture>
 
 </div>
